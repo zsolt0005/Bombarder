@@ -1,0 +1,13 @@
+#block{
+    -fx-background-color: rgba(0,0,0,0.6);
+    -fx-background: rgba(0,0,0,0.6);
+    -fx-border-width: 0.5;
+    -fx-border-color: rgba(0,0,0,0.8);
+}
+
+#dead{
+    -fx-background-color: rgba(0,0,0,0);
+    -fx-background: rgba(0,0,0,0);
+    -fx-border-width: 0;
+    -fx-border-color: rgba(0,0,0,0);
+}
